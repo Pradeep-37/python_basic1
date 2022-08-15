@@ -1,8 +1,8 @@
-""" prime no bw 100 and 200
+prime no bw 100 and 200
 for num in range(100,200):
     if all(num%i !=0 for i in range(2,num)):
         print(num)
-"""
+
 
 """ sort function to sort a list
 l = [56,89,2,4,5,1,90,345,234]
@@ -121,4 +121,4 @@ else:
     print ("Element is not present in array")
 """
 
-import pandas as pd
+"""import pandas as pd"""
